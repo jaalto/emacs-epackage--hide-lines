@@ -14,7 +14,7 @@ Vcs-User:
 Vcs-Password:
 Homepage:
 Wiki: http://www.emacswiki.org/emacs/HideLines
-Description: Hide or preserve all matching lines in buffer
+Description: hide or preserve all matching lines in buffer
  Main command [C-u] M-x hide-lines to hide or show matching lines.
  With prefix argument, the corresponding lines are preserved while
  others are hidden.
