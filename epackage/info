@@ -4,7 +4,7 @@ License: None
 Depends: emacs (>= 21)
 Status: unmaintained
 Compat:
-Maintainer:
+Maintainer: Jari Aalto <jari.aalto@cante.net>
 Email: Mark Hulme-Jones <ture@plig.net>
 Bugs:
 Vcs-Type: http
