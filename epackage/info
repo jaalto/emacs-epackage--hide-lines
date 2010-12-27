@@ -5,8 +5,9 @@ Depends: emacs (>= 21)
 Status: unmaintained
 Compat:
 Maintainer: Jari Aalto <jari.aalto@cante.net>
-Email: Mark Hulme-Jones <ture@plig.net>
 Bugs:
+Upstream: Mark Hulme-Jones <ture@plig.net>
+Upstream-Bugs:
 Vcs-Type: http
 Vcs-Url: http://www.emacswiki.org/emacs/download/hide-lines.el
 Vcs-Browser:
