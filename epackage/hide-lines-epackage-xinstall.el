@@ -3,4 +3,4 @@
 (autoload 'hide-non-matching-lines              "hide-lines" "" t)
 (autoload 'hide-matching-lines                  "hide-lines" "" t)
 (autoload 'show-all-invisible                   "hide-lines" "" t)
-(provide 'hide-lines-epkg-autoloads)
+(provide 'hide-lines-epackage-autoloads)
